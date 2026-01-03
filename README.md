@@ -5,7 +5,7 @@ Rocket Patrol is an 2D arcade style shooter built with *Phaser 3*. Players launc
 ![Rocket](https://github.com/user-attachments/assets/d3e4d1b1-7ada-4cbe-8cbd-95f5de283769)
 
 ## PLAY NOW
-https://bayobands.github.io/Rocket-Patrol/
+[Rocket Patrol](https://bayobands.github.io/Rocket-Patrol-Arcade-Shooter/)
 
 ## Built With
 - JavaScript
